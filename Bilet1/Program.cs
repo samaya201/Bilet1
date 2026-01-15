@@ -1,4 +1,6 @@
 using Bilet1.Context;
+using Bilet1.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -17,7 +19,13 @@ namespace Bilet1
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
  
             });
-            
+
+            builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+
 
             var app = builder.Build();
 

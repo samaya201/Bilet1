@@ -1,0 +1,33 @@
+﻿@model ServiceCreateVM
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title">Title </label>
+        <input asp-for="Title" class="form-control" placeholder="Enter Title">
+        <span asp-validation-for="Title"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description </label>
+        <input asp-for="Description" class="form-control" placeholder="Enter Description">
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image">Image </label>
+        <input asp-for="Image" class="form-control" placeholder="Enter Image">
+        <span asp-validation-for="Image"></span>
+    </div>
+    <div class="form-group">
+        <select asp-for="CategoryId" class="form-control">
+            @foreach(Category category in ViewBag.Categories)
+            {
+            <option value="@category.Id">@category.Name</option>
+                
+            }
+        </select>
+       
+        <span asp-validation-for="CategoryId"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}

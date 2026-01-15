@@ -1,10 +1,12 @@
 ﻿using Bilet1.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.General;
 using System.Reflection;
 
 namespace Bilet1.Context;
 
-public class AppDbContext : DbContext
+public class AppDbContext:IdentityDbContext<AppUser>
 {
     public AppDbContext(DbContextOptions options) : base(options)
     {
