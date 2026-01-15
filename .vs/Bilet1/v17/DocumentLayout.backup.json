@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Bilet1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Migrations\\20260115115711_AddedIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilet1\\Migrations\\20260115115711_AddedIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\migrations\\20260115115711_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\migrations\\20260115115711_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA8EB318-19BC-41C4-88CC-496204328EA8}|Bilet1\\Bilet1.csproj|c:\\users\\student\\source\\repos\\bilet1\\bilet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,7 +182,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:05:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:01:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bilet1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T12:01:07.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bilet1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T12:00:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bilet1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:00:13.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20260115115711_AddedIdentity.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Migrations\\20260115115711_AddedIdentity.cs",
               "RelativeDocumentMoniker": "Bilet1\\Migrations\\20260115115711_AddedIdentity.cs",
@@ -175,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Bilet1\\Models\\AppUser.cs",
@@ -183,12 +268,11 @@
               "RelativeToolTip": "Bilet1\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:44:35.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:44:35.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ServiceCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
               "RelativeDocumentMoniker": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
@@ -196,12 +280,11 @@
               "RelativeToolTip": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:11:34.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:11:34.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\ServiceController.cs",
@@ -209,12 +292,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAuwHUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:06:38.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:06:38.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -222,12 +304,11 @@
               "RelativeToolTip": "Bilet1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:38:08.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:38:08.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -235,12 +316,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:35:59.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:35:59.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Bilet1\\Context\\AppDbContext.cs",
@@ -248,25 +328,23 @@
               "RelativeToolTip": "Bilet1\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:39:45.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:39:45.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Bilet1.csproj",
-              "DocumentMoniker": "C:\\Users\\student\\Source\\Repos\\Bilet1\\Bilet1\\Bilet1.csproj",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Bilet1.csproj",
               "RelativeDocumentMoniker": "Bilet1\\Bilet1.csproj",
-              "ToolTip": "C:\\Users\\student\\Source\\Repos\\Bilet1\\Bilet1\\Bilet1.csproj",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Bilet1.csproj",
               "RelativeToolTip": "Bilet1\\Bilet1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-14T22:53:32.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:53:32.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Program.cs",
               "RelativeDocumentMoniker": "Bilet1\\Program.cs",
@@ -274,12 +352,11 @@
               "RelativeToolTip": "Bilet1\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:18:36.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:18:36.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\appsettings.json",
               "RelativeDocumentMoniker": "Bilet1\\appsettings.json",
@@ -287,12 +364,11 @@
               "RelativeToolTip": "Bilet1\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-14T22:54:00.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:54:00.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ServiceUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
               "RelativeDocumentMoniker": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
@@ -300,12 +376,11 @@
               "RelativeToolTip": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:11:43.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:11:43.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Service\\Index.cshtml",
@@ -313,12 +388,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:26:02.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:26:02.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "FileHelper.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Helpers\\FileHelper.cs",
               "RelativeDocumentMoniker": "Bilet1\\Helpers\\FileHelper.cs",
@@ -326,12 +400,11 @@
               "RelativeToolTip": "Bilet1\\Helpers\\FileHelper.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:41:03.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:41:03.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Service\\Create.cshtml",
@@ -339,12 +412,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T10:53:17.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:53:17.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Service\\Update.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Service\\Update.cshtml",
@@ -352,12 +424,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Service\\Update.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T11:35:45.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:35:45.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -365,12 +436,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:36:25.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:36:25.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ServiceGetVM.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ViewModels\\ServiceViewModels\\ServiceGetVM.cs",
               "RelativeDocumentMoniker": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceGetVM.cs",
@@ -378,12 +448,11 @@
               "RelativeToolTip": "Bilet1\\ViewModels\\ServiceViewModels\\ServiceGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T10:11:19.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T10:11:19.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -391,12 +460,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:29:39.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:29:39.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -404,12 +472,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T23:41:53.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:41:53.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ServiceConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Configurations\\ServiceConfiguration.cs",
               "RelativeDocumentMoniker": "Bilet1\\Configurations\\ServiceConfiguration.cs",
@@ -417,12 +484,11 @@
               "RelativeToolTip": "Bilet1\\Configurations\\ServiceConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:06:49.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:06:49.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -430,12 +496,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T23:43:42.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:43:42.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Bilet1\\Configurations\\CategoryConfiguration.cs",
@@ -443,12 +508,11 @@
               "RelativeToolTip": "Bilet1\\Configurations\\CategoryConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:09:53.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:09:53.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
@@ -456,12 +520,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T23:44:48.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:44:48.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Bilet1\\Models\\Service.cs",
@@ -469,12 +532,11 @@
               "RelativeToolTip": "Bilet1\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:42:06.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:42:06.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Bilet1\\Models\\Common\\BaseEntity.cs",
@@ -482,12 +544,11 @@
               "RelativeToolTip": "Bilet1\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:41:38.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:41:38.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Bilet1\\Controllers\\HomeController.cs",
@@ -495,12 +556,11 @@
               "RelativeToolTip": "Bilet1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:19:00.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:19:00.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Bilet1\\Models\\Category.cs",
@@ -508,12 +568,11 @@
               "RelativeToolTip": "Bilet1\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:49:54.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:49:54.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -521,12 +580,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:37:33.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:37:33.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -534,12 +592,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:36:10.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:36:10.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -547,12 +604,11 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T20:34:23.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:34:23.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Bilet1\\ScaffoldingReadMe.txt",
@@ -560,12 +616,11 @@
               "RelativeToolTip": "Bilet1\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-14T20:33:36.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:33:36.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Views\\_ViewImports.cshtml",
@@ -573,12 +628,11 @@
               "RelativeToolTip": "Bilet1\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:30:56.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:30:56.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Views\\Home\\Index.cshtml",
@@ -586,12 +640,11 @@
               "RelativeToolTip": "Bilet1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:28:25.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:28:25.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Bilet1\\Bilet1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Views\\Shared\\_Layout.cshtml",
@@ -599,8 +652,7 @@
               "RelativeToolTip": "Bilet1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAHEAAAAAAAAAAAAYwIgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T20:19:29.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T20:19:29.793Z"
             }
           ]
         }
